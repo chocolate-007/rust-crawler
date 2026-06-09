@@ -1,0 +1,12 @@
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\mac-5b0a53b847b3de7a.d: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\test.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\mem.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\format.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\syntax_ext.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\matches.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\inspect.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\cfg.rs
+
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\libmac-5b0a53b847b3de7a.rmeta: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\test.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\mem.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\format.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\syntax_ext.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\matches.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\inspect.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\cfg.rs
+
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\lib.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\test.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\mem.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\format.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\syntax_ext.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\matches.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\inspect.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\mac-0.1.1\src\cfg.rs:

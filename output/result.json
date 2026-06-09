@@ -1,0 +1,122 @@
+{
+  "pages": [
+    {
+      "url": "http://www.nankai.edu.cn/162/list.htm",
+      "depth": 1,
+      "title": "学校简介",
+      "status_code": 200,
+      "links": [],
+      "content_length": 28874,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/",
+      "depth": 1,
+      "title": "南开大学",
+      "status_code": 200,
+      "links": [],
+      "content_length": 99915,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/162/list.htm",
+      "depth": 1,
+      "title": "学校简介",
+      "status_code": 200,
+      "links": [],
+      "content_length": 28874,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/169/list.htm",
+      "depth": 1,
+      "title": "历史沿革",
+      "status_code": 200,
+      "links": [],
+      "content_length": 24302,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/178/list.htm",
+      "depth": 1,
+      "title": "现任领导",
+      "status_code": 200,
+      "links": [],
+      "content_length": 25486,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/191/list.htm",
+      "depth": 1,
+      "title": "历届领导",
+      "status_code": 200,
+      "links": [],
+      "content_length": 25666,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/208/list.htm",
+      "depth": 1,
+      "title": "南开新闻",
+      "status_code": 200,
+      "links": [],
+      "content_length": 17338,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/212/list.htm",
+      "depth": 1,
+      "title": "专业学院",
+      "status_code": 200,
+      "links": [],
+      "content_length": 26111,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/247/list.htm",
+      "depth": 1,
+      "title": "办公电话",
+      "status_code": 200,
+      "links": [],
+      "content_length": 94391,
+      "status": "Success",
+      "error_message": null
+    },
+    {
+      "url": "https://www.nankai.edu.cn/main.htm",
+      "depth": 0,
+      "title": "南开大学",
+      "status_code": 200,
+      "links": [
+        "https://www.nankai.edu.cn/",
+        "https://www.nankai.edu.cn/247/list.htm",
+        "http://www.nankai.edu.cn/162/list.htm",
+        "https://www.nankai.edu.cn/162/list.htm",
+        "https://www.nankai.edu.cn/178/list.htm",
+        "https://www.nankai.edu.cn/191/list.htm",
+        "https://www.nankai.edu.cn/169/list.htm",
+        "https://www.nankai.edu.cn/208/list.htm",
+        "https://www.nankai.edu.cn/212/list.htm"
+      ],
+      "content_length": 99915,
+      "status": "Success",
+      "error_message": null
+    }
+  ],
+  "stats": {
+    "visited_pages": 10,
+    "success_pages": 10,
+    "failed_pages": 0,
+    "discovered_links": 9,
+    "skipped_links": 50,
+    "retried_requests": 0
+  }
+}

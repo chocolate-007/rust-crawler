@@ -1,0 +1,9 @@
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\hyper_rustls-964b36813996d05d.d: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\config.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\connector.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\connector\builder.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\stream.rs
+
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\libhyper_rustls-964b36813996d05d.rmeta: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\config.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\connector.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\connector\builder.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\stream.rs
+
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\lib.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\config.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\connector.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\connector\builder.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\hyper-rustls-0.27.9\src\stream.rs:

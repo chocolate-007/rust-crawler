@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "url": "https://example.com",
+      "depth": 0,
+      "title": "Example",
+      "status_code": 200,
+      "links": [
+        "https://example.com/about"
+      ],
+      "content_length": 128,
+      "status": "Success",
+      "error_message": null
+    }
+  ],
+  "stats": {
+    "visited_pages": 1,
+    "success_pages": 1,
+    "failed_pages": 0,
+    "discovered_links": 1,
+    "skipped_links": 0,
+    "retried_requests": 0
+  }
+}

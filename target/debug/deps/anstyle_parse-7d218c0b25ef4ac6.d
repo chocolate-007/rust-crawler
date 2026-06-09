@@ -1,0 +1,9 @@
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\anstyle_parse-7d218c0b25ef4ac6.d: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\params.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\mod.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\definitions.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\table.rs
+
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\libanstyle_parse-7d218c0b25ef4ac6.rmeta: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\params.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\mod.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\definitions.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\table.rs
+
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\lib.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\params.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\mod.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\definitions.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-parse-1.0.0\src\state\table.rs:

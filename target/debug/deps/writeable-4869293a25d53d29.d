@@ -1,0 +1,11 @@
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\writeable-4869293a25d53d29.d: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\cmp.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\concat.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\impls.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\ops.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\parts_write_adapter.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\try_writeable.rs
+
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\libwriteable-4869293a25d53d29.rmeta: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\cmp.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\concat.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\impls.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\ops.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\parts_write_adapter.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\try_writeable.rs
+
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\lib.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\cmp.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\concat.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\impls.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\ops.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\parts_write_adapter.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\writeable-0.6.3\src\try_writeable.rs:

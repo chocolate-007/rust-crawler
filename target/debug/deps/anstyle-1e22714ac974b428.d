@@ -1,0 +1,10 @@
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\anstyle-1e22714ac974b428.d: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\macros.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\color.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\effect.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\reset.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\style.rs
+
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\libanstyle-1e22714ac974b428.rmeta: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\macros.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\color.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\effect.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\reset.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\style.rs
+
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\lib.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\macros.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\color.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\effect.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\reset.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\anstyle-1.0.14\src\style.rs:

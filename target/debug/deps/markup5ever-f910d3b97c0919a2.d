@@ -1,0 +1,10 @@
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\markup5ever-f910d3b97c0919a2.d: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\interface\mod.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\interface\tree_builder.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\serialize.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\util\buffer_queue.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\util\smallcharset.rs
+
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\libmarkup5ever-f910d3b97c0919a2.rmeta: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\interface\mod.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\interface\tree_builder.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\serialize.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\util\buffer_queue.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\util\smallcharset.rs
+
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\lib.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\interface\mod.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\interface\tree_builder.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\serialize.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\util\buffer_queue.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\markup5ever-0.35.0\util\smallcharset.rs:

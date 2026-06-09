@@ -1,0 +1,22 @@
+Crawl Report
+====================
+Total pages: 10
+Successful pages: 10
+Failed pages: 0
+Skipped pages: 0
+Pages with title: 10
+Average content length: 47087
+Retried requests: 0
+
+Status breakdown:
+- Success: 10
+
+Top domains:
+- www.nankai.edu.cn (10)
+
+Top linked pages:
+- https://www.nankai.edu.cn/main.htm (9)
+- http://www.nankai.edu.cn/162/list.htm (0)
+- https://www.nankai.edu.cn/ (0)
+- https://www.nankai.edu.cn/162/list.htm (0)
+- https://www.nankai.edu.cn/169/list.htm (0)

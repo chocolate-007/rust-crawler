@@ -1,0 +1,14 @@
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\thiserror-f7d2ef35892ac78b.d: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\aserror.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\display.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\var.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\private.rs C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\build\thiserror-538ec6d06a9d4a0b\out/private.rs
+
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\libthiserror-f7d2ef35892ac78b.rlib: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\aserror.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\display.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\var.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\private.rs C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\build\thiserror-538ec6d06a9d4a0b\out/private.rs
+
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\deps\libthiserror-f7d2ef35892ac78b.rmeta: C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\lib.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\aserror.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\display.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\var.rs C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\private.rs C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\build\thiserror-538ec6d06a9d4a0b\out/private.rs
+
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\lib.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\aserror.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\display.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\var.rs:
+C:\Users\hengt\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\thiserror-2.0.18\src\private.rs:
+C:\Users\hengt\Desktop\大二\Rust\大作业\target\debug\build\thiserror-538ec6d06a9d4a0b\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\hengt\\Desktop\\大二\\Rust\\大作业\\target\\debug\\build\\thiserror-538ec6d06a9d4a0b\\out
